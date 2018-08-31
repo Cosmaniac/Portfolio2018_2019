@@ -27,10 +27,6 @@ class Main {
 
     totalTankers = (0.0078125f * ouncesTotal) / (11000f);
 
-    /*if (ouncesTotal % 1408000 > 0) {
-      totalTankers += 1;
-    } else {
-    }*/
     System.out.println("You will need " + totalTankers + " to survive " + longevity + " days, or " + years + " years, " + months + " months, and " + days + " days.");
 
   }
