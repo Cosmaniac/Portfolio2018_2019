@@ -7,11 +7,16 @@
 
 
 
-[Sourcecode](https://Cosmaniac.github.io/Portfolio2018_2019/JavaScannerCalculator)
+[More Info] (https://Cosmaniac.github.io/Portfolio2018_2019/JavaScannerCalculator)
+
+[Sourcecode](https://Cosmaniac.github.io/Portfolio2018_2019/JavaScannerCalculator/Markdown)
 
 
 
 ### Tanker (Java)
 
 
-[Sourcecode](https://Cosmaniac.github.io/Portfolio2018_2019/JavaScannerTankerCalculator)
+
+[More Info] (https://Cosmaniac.github.io/Portfolio2018_2019/JavaScannerTankerCalculator)
+
+[Sourcecode](https://Cosmaniac.github.io/Portfolio2018_2019/JavaScannerTankerCalculator/Markdown)
