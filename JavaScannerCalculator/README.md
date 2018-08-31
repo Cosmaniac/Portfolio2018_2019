@@ -1,1 +1,1 @@
-# Java Calculator
+# Calculator (Java)
