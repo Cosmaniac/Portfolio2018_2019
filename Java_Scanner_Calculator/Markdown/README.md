@@ -10,7 +10,7 @@ public class Main {
     float answer;
     boolean cont = true;
     char help;
-
+```markdown
     while (cont) {
       System.out.println("Enter the first number you would like to calculate: ");
       firstN = scan.nextFloat();
@@ -57,3 +57,4 @@ public class Main {
   }
 
 }
+```markdown
