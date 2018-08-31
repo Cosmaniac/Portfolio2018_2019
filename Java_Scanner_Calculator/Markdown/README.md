@@ -1,3 +1,6 @@
+
+```markdown
+//Original made by Hayden Soelberg
 import java.util.Scanner;
 
 public class Main {
@@ -10,7 +13,6 @@ public class Main {
     float answer;
     boolean cont = true;
     char help;
-```markdown
     while (cont) {
       System.out.println("Enter the first number you would like to calculate: ");
       firstN = scan.nextFloat();
